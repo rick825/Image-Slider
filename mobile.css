@@ -1,0 +1,22 @@
+@media only screen and (max-width: 1000px){
+  
+.main{
+  width: 200%;
+  height: 150rem;
+}
+
+.slide p{
+  left: 30%;
+}
+
+.navigation{
+  width: 140%;
+ /*transform: translateX(15%);*/
+}
+
+.bar{
+  width: 40rem;
+  height: 27rem;
+}
+
+}
